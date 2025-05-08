@@ -1,0 +1,2 @@
+# ActiveDirectorSetup
+Ohjeita ActiveDirectory-pohjaisen hakemistopalvelimen asennukseen ja konfigurointiin
